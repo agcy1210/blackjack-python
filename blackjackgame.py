@@ -1,3 +1,7 @@
+'''
+It is a blackjack game made using simple python functions
+'''
+
 import os
 import random
 
